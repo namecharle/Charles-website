@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "namecharles@163.com".
+  link: 'mailto:namecharles@163.com'  # For a direct email link, use "mailto:namecharles@163.com".
 - icon: weixin
   icon_pack: fab
   link: files/wx.jpg
