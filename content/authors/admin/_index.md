@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 梁树新
+title: Charles Liang
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 金融风控/数据挖掘
+role: Finacial Risk Control&Data Mining
 
 # Organizations/Affiliations
 organizations:
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Engaged in data analysis for 3 years, familiar with crawler, SVM, random forest, logistic regression, decision tree, neural network, naive Bayes, association rules, xgboost, lighgbm, gbdt and other machine learning algorithms.
+3 years of financial risk control data analysis work experience, good at crawler, SVM, random forest, logistic regression, decision tree, neural network, naive Bayes, association rules, xgboost, lighgbm, gbdt and other machine learning algorithms, has a personal blog, has published a number of articles on data mining and machine learning.

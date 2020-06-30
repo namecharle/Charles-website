@@ -19,6 +19,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = ""
+
+[[feature]]
+  icon = "spider"
+  icon_pack = "fas"
+  name = "Spider"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
@@ -27,7 +33,7 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "chart-network"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Machine Learning"
   description = ""
