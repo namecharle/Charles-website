@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 梁树新
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 金融风控/数据挖掘
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+兴趣:
+- 机器学习
+- 数据分析
+- 运动
 
 education:
   courses:
