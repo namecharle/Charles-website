@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data analysis director"
-  company = "Data analysis director"
+  company = "CGB Credit Card Center"
   company_url = ""
   location = "Guangzhou"
   date_start = "2016-09-01"
