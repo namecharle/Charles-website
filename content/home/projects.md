@@ -22,13 +22,17 @@ subtitle = ""
   filter_default = 0
   
 [[content.filter_button]]
- name = "All"
+ name = "全部"
  tag = "*"
   
 [[content.filter_button]]
  name = "数据挖掘"
  tag = "数据挖掘"
-  
+
+[[content.filter_button]]
+ name = "数据分析"
+ tag = "数据分析"
+
 [[content.filter_button]]
  name = "爬虫"
  tag = "爬虫"
@@ -46,7 +50,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

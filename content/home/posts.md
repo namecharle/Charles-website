@@ -25,8 +25,8 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
+    tag = "机器学习"
+    category = "机器学习"
     publication_type = ""
     author = ""
     exclude_featured = false
