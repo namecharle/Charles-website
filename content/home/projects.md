@@ -26,12 +26,16 @@ subtitle = ""
  tag = "*"
   
 [[content.filter_button]]
- name = "Deep Learning"
- tag = "Deep Learning"
+ name = "数据挖掘"
+ tag = "数据挖掘"
   
 [[content.filter_button]]
- name = "Other"
- tag = "Demo"
+ name = "爬虫"
+ tag = "爬虫"
+
+[[content.filter_button]]
+ name = "其他"
+ tag = "其他"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
