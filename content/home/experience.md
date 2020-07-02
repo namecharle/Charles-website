@@ -33,12 +33,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data analysis director"
+  company = "Data analysis director"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Guangzhou"
+  date_start = "2016-09-01"
+  date_end = "2019-09-01"
+  description = """
+  Responsibilities include:
+  
+  * In depth study of financial fraud mode and establishment of risk control data index system
+  * Analyze customer behavior data features, modeling
+  * Cooperate with other departments,provide daily data requirement support and complete product optimization
+"""
 
 +++
