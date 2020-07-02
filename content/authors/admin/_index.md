@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-3 years of financial risk control data analysis work experience, good at crawler, SVM, random forest, logistic regression, decision tree, neural network, naive Bayes, association rules, xgboost, lighgbm, gbdt and other machine learning algorithms, has a personal blog, has published a number of articles on data mining and machine learning.
+3 years of financial risk control data analysis work experience,familiar with financial fraud risk business,machine learning algorithms such as SVM, random forest, logistic regression, decision tree, neural network, naive Bayes, association rules, xgboost, lighgbm, gbdt,builded a personal blog and published a number of articles on data mining,spider and machine learning.
