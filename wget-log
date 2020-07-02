@@ -1,0 +1,16 @@
+--2020-07-03 00:12:22--  https://github.com/gohugoio/hugo/releases/download/v0.41/hugo_0.41_Linux-64bit.tar.gz
+正在解析主机 github.com (github.com)... 13.250.177.223
+正在连接 github.com (github.com)|13.250.177.223|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 302 Found
+位置：https://github-production-release-asset-2e65be.s3.amazonaws.com/11180687/c9b413e0-604d-11e8-91c8-854bc93cd9d6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200702T161223Z&X-Amz-Expires=300&X-Amz-Signature=13365d83a8a21431f694af6c1a126e7aeb600ba6308af2eeb7b88a316fe0435d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=11180687&response-content-disposition=attachment%3B%20filename%3Dhugo_0.41_Linux-64bit.tar.gz&response-content-type=application%2Foctet-stream [跟随至新的 URL]
+--2020-07-03 00:12:24--  https://github-production-release-asset-2e65be.s3.amazonaws.com/11180687/c9b413e0-604d-11e8-91c8-854bc93cd9d6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200702T161223Z&X-Amz-Expires=300&X-Amz-Signature=13365d83a8a21431f694af6c1a126e7aeb600ba6308af2eeb7b88a316fe0435d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=11180687&response-content-disposition=attachment%3B%20filename%3Dhugo_0.41_Linux-64bit.tar.gz&response-content-type=application%2Foctet-stream
+正在解析主机 github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)... 52.216.136.244
+正在连接 github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)|52.216.136.244|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (连接超时)。
+重试中。
+
+--2020-07-03 00:27:44--  (尝试次数： 2)  https://github-production-release-asset-2e65be.s3.amazonaws.com/11180687/c9b413e0-604d-11e8-91c8-854bc93cd9d6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200702T161223Z&X-Amz-Expires=300&X-Amz-Signature=13365d83a8a21431f694af6c1a126e7aeb600ba6308af2eeb7b88a316fe0435d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=11180687&response-content-disposition=attachment%3B%20filename%3Dhugo_0.41_Linux-64bit.tar.gz&response-content-type=application%2Foctet-stream
+正在连接 github-production-release-asset-2e65be.s3.amazonaws.com (github-production-release-asset-2e65be.s3.amazonaws.com)|52.216.136.244|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 403 Forbidden
+2020-07-03 00:28:02 错误 403：Forbidden。
+
