@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "P&G"
   company_url = ""
   location = "Guangzhou"
-  date_start = "2019-12"
-  date_end = "2020-04"
+  date_start = "2019-12-01"
+  date_end = "2020-04-01"
   description = """
   Responsibilities include:
   
