@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "CGB Credit Card Center"
   company_url = ""
   location = "Guangzhou"
-  date_start = "2016-09-01"
+  date_start = "2017-11-01"
   date_end = "2019-09-01"
   description = """
   Responsibilities include:
